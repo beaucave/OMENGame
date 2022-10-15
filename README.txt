@@ -7,7 +7,6 @@ g++ -std=c++11 OmenDriver.cpp Game.cpp Map.cpp Player.cpp Store.cpp Helper.cpp B
 Run Command: 
 ./OmenGame
 
-
 ----------------------------------------------------
 DEPENDENCIES
 ----------------------------------------
@@ -22,15 +21,6 @@ Player.h
 Store.h
 items.txt
 monsters.txt
-
-----------------------------------------------------
-SUBMISSION INFORMATION
-----------------------------------------
-CS1300 Fall 2021 -- Project 3
-Author: Beauregard Cave
-Recitation: 117 – Meenakshi Sistla
-Submission Date: December 2, 2021
-
 
 ----------------------------------------------------
 ABOUT "OMEN" (PROJECT 3)

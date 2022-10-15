@@ -46,7 +46,7 @@ class Game
         void genLoadStores(int storeId, string itemCodes[], int codesSize);
         void genDisplayInventory();
         /* void genLoadSaveData(): would load data from save file. 
-        save functionality (saving the game and restoring that save) will be added in the future.
+        save functionality (saving the game and restoring that save) for the future.
         */
         
         void equipItem();
