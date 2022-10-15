@@ -2,7 +2,7 @@
 COMPILING AND RUNNING THE PROGRAM
 ----------------------------------------
 Compilation Command: 
-g++ -std=c++11 OmenDriver.cpp Game.cpp Map.cpp Player.cpp Store.cpp Helper.cpp Bestiary.cpp ItemCatalog.cpp -o OmenGame
+g++ -std=c++11 OmenDriver.cpp -o OmenGame
 
 Run Command: 
 ./OmenGame

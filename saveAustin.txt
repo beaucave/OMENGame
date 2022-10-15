@@ -1,10 +1,10 @@
-Beau
+Austin
 1
 Statistics (Health, Stamina, Attack, Defense)
-4
-2
+3
 2
 1
+0
 Equipment (Index Numbers; -1 indicates an empty slot)
 1
 -1
