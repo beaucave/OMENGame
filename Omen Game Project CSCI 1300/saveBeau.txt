@@ -1,0 +1,21 @@
+Beau
+2
+Statistics (Health, Stamina, Attack, Defense)
+5
+3
+3
+2
+Equipment (Index Numbers; -1 indicates an empty slot)
+1
+-1
+-1
+Inventory (Index Numbers; -1 indicates an empty slot)
+1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1

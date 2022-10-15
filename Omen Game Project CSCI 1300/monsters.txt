@@ -1,0 +1,27 @@
+key_monster name_X_0_X_description
+shade1_The Eternal Dancer_R_1_S_A figure that belongs in a music box, THE DANCER spins forever.
+minion1_A Winding Key_R_1_M_A golden piece of metal. It only wants to dance with you.
+
+shade2_The Living Earth_G_2_S_A towering beast that may have once been a tree. It isn't a tree anymore.
+minion2_A Stone Beast_G_2_M_Something made of rock, or bone. It looks heavy enough to destroy you.
+
+shade3_The Gilded Mirror_B_3_S_The most hauntingly beautiful object you've ever seen. Vanity made tangible.
+minion3_Something Like Glass_B_3_M_Something that, at first glance, could be a broken piece of mirror. But something isn't right.
+
+shade4_The Tortured Soul_R_4_S_This face looks abstract, like a painting that has decayed. It's frozen in a scream.
+minion4_A Painted Hand_R_4_M_A spindly hand that crawls like an insect.
+
+shade5_The Brightest Star_R_5_S_A miniscule sun. It could burn you into ashes.
+minion5_A Falling Star_R_5_S_The little fireball leaps around you, hovering and then disappearing again.
+
+shade6_The Unwolf_G_6_S_A gargantuan wolf. It has too many teeth.
+minion6_A Wild Thing_G_6_S_It's a wolf, or a fox, or maybe it isn't. It watches you hungrily, with too many mouths.
+
+shade7_The Neon City_G_7_S_This Shade is entwined closely with the DREAM; the very landscape rises against you.
+minion7_A Broken Streetlight_G_7_S_The lamppost is bent and twisting, reaching for you.
+
+shade8_The Sinking Ship_B_8_S_There is no air or ground here; everything is water. The monstrous ship wants you to drown.
+minion8_A Ghostly Sailor_B_8_S_An old inhabitant of a sunken ship. It moves too quickly.
+
+shade9_The Hollow_K_9_S_You can't see this Shade, only the edges of the absense where it would be. The abyss has come knocking.
+minion9_Something Empty_K_9_S_An empty husk of... something. It isn't anything anymore.

@@ -1,0 +1,37 @@
+key_X_Item Name_0_Description,Text_-1
+
+weapon0_W_Worn Baseball Bat_0_An old baseball bat. It gets the job done._-2
+weapon1_W_A Silver Cutlass_1_A pristine, razor-sharp sword. Ornate vines curl around its hilt. You feel calm._-2
+weapon2_W_The Twin Handaxes_1_Two matching handaxes. Each has a tiny red jewel embedded in the handle. You feel energized._-2
+weapon3_W_An Elegant Stiletto_1_The knife is beautifully crafted. There are tiny carvings of waves in its handle. You feel prepared._-2
+weapon4_W_The Spiked Gloves_2_Sharp, dense spikes protrude from the knuckles of these soft gloves. You feel energized._-2
+weapon5_W_A Deceptive Cane_2_It seems like a boring walking stick; but it's oddly heavy. It reminds you of your old bat. You feel calm._-2
+weapon6_W_An Iridescent Spear_2_The spear glitters in the light. The colors shift as you stare at it. You feel prepared._-2
+weapon7_W_The Midnight Staff_3_You've never seen something like this before. The air around it seems dimmer, like it's absorbing light. It makes you feel powerful._-2
+
+vial0_X_Item Name_0_HP_-1
+vial1_V_A Deep Green Potion_1_A fat, short bottle. The liquid inside is dark green._1
+vial2_V_A Bright Red Drink_1_A stereotypical potion bottle, with something cherry-red inside._1
+vial3_V_A Tall, Sapphire Elixir_1_A tall, thin glass. The liquid inside is the palest shade of blue._1
+vial4_V_A Neon Potion_2_There's something bright green inside of this one._2
+vial5_V_A Fizzy Golden Drink_2_Tiny bubbles float inside of this bottle. The drink is bright gold._2
+vial6_V_An Indigo Brew_2_This potion smells strongly of cherries, even through its cork._2
+vial7_V_A Collection of Vials_3_This is odd... When you open the bag, you find three crystal vials full of an inky black substance._3
+
+jewelry0_X_Item Name_0_DEF_-1
+jewelry1_J_The Amber Pendant_1_A golden chain with a round amber pendant hanging from it. It reminds you of the sun._-2
+jewelry2_J_A Copper Chain_1_This could be a bracelet or a necklace. It has a rainbow of beads on it._-2
+jewelry3_J_A Gold Locket_1_You flick the locket open; it's empty. Maybe you could put a photo inside._-2
+jewelry4_J_An Emerald Earring_2_This earring is missing its partner. It's icy cold to the touch._-2
+jewelry5_J_A Pair of Bracelets_2_These bracelets are interlocked, though you can untangle them. They're almost soft._-2
+jewelry6_J_A Triangular Ring_2_A slim silver ring with a turquiose triangle in its center. It reminds you of an old friend._-2
+jewelry7_J_An Old Friendship Bracelet_3_This bracelet is plain; strings braided together. But... there's something powerful about it._-2
+
+gemstone0_X_Item Name_0_STAM_-2
+gemstone1_G_An Exquisite Amethyst Wand_1_This column-like crystal has a square base and tapers into a sharp point at the top._-2
+gemstone2_G_A Fiery Ruby_1_The colors are so vivid that they almost seem fake. It makes you feel like you could run a mile._-2
+gemstone3_G_An Engraved Sapphire_1_This sapphire, inexplicably, has a miniscule lighthouse carved on one side._-2
+gemstone4_G_The Crystal-clear Quartz_2_The quartz has a small hole at its base, like it could be put on a necklace._2
+gemstone5_G_A Glowing Topaz_2_This rock feels warm, like it had sat in the sun for awhile._-2
+gemstone6_G_A Miniscule Diamond_2_The diamond is tiny, but it sparkles like the sun._-2
+gemstone7_G_The River Rock_3_The rock is simple, smoothed out like its been underwater for ages. It feels unnaturally heavy._-2
