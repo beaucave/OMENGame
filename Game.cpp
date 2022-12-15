@@ -333,7 +333,7 @@ void Game::genPrintFinalReport()
     Prints the final data from the player's save file.
     */
     string currentLine;
-    string fileName = "save" + myPlayer.getName() + ".txt";
+    string fileName = "save_" + myPlayer.getName() + ".txt";
 
     ifstream myFile;
     myFile.open(fileName);

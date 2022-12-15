@@ -1,0 +1,21 @@
+eero saarinen
+1
+Statistics (Health, Stamina, Attack, Defense)
+6
+4
+1
+2
+Equipment (Index Numbers; -1 indicates an empty slot)
+2
+-1
+-1
+Inventory (Index Numbers; -1 indicates an empty slot)
+2
+1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
